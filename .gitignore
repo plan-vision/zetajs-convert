@@ -1,0 +1,15 @@
+/.visionr/
+/classes/
+/target/
+/node_modules/
+/.idea/
+.classpath
+.project
+.vscode
+.settings
+.factorypath
+pom.generated.xml
+npm-debug.*
+*.log
+/dist/soffice.data
+/dist/soffice.wasm
